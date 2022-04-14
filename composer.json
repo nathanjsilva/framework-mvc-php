@@ -1,0 +1,15 @@
+{
+    "name": "nathan/framework-mvc-php",
+    "authors": [
+        {
+            "name": "Nathan Silva",
+            "email": "nathan.ads.100@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
